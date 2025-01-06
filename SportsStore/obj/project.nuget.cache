@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1DQeAUQ/Jg=",
+  "dgSpecHash": "NqV3+OgKFX/ek5jkNGkrtQtD7RHEY26tfimutonYvfUqc9QTB4VZYrD3gVq4jgK0ZMgjum/E4C3bHzujgqjyRQ==",
   "success": true,
-  "projectFilePath": "C:\\Windows\\Visual\\SportsSln\\SportsStore\\SportsStore.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\windows\\visual\\SportsSln\\SportsStore\\SportsStore.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

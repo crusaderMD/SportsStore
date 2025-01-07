@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lhWU06RUYwM=",
+  "dgSpecHash": "+QWIQM+A1/aNORU1DtkYU52POIGrHYdgTrWb3omFRgEKHXD7RqZVl2sCWvUoB2fqbK9j2Eij2mYED/13TbOZIA==",
   "success": true,
   "projectFilePath": "C:\\Windows\\Visual\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
@@ -63,11 +63,7 @@
     "C:\\Users\\lemans\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\lemans\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\lemans\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\lemans\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+    "C:\\Users\\lemans\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
